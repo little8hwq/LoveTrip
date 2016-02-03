@@ -1,0 +1,84 @@
+
+/* Class = "IBUILabel"; text = "自定义"; ObjectID = "05z-lJ-MTC"; */
+"05z-lJ-MTC.text" = "自定义";
+
+/* Class = "IBUILabel"; text = "性别："; ObjectID = "4hQ-Hn-amo"; */
+"4hQ-Hn-amo.text" = "性别：";
+
+/* Class = "IBUIButton"; normalTitle = "主页"; ObjectID = "5rl-NG-KQB"; */
+"5rl-NG-KQB.normalTitle" = "主页";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "7Rc-aU-Pat"; */
+"7Rc-aU-Pat.text" = "Title";
+
+/* Class = "IBUILabel"; text = "创建你自己的行程"; ObjectID = "Erq-ef-CqL"; */
+"Erq-ef-CqL.text" = "创建你自己的行程";
+
+/* Class = "IBUIButton"; normalTitle = "天气"; ObjectID = "H6c-dJ-W1a"; */
+"H6c-dJ-W1a.normalTitle" = "天气";
+
+/* Class = "IBUIButton"; normalTitle = "主页"; ObjectID = "MyL-HJ-DQb"; */
+"MyL-HJ-DQb.normalTitle" = "主页";
+
+/* Class = "IBUIButton"; normalTitle = "主页"; ObjectID = "OFU-m1-w1w"; */
+"OFU-m1-w1w.normalTitle" = "主页";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "PM6-pk-Ove"; */
+"PM6-pk-Ove.text" = "Subtitle";
+
+/* Class = "IBUIButton"; normalTitle = "注册"; ObjectID = "Qoo-cG-0wU"; */
+"Qoo-cG-0wU.normalTitle" = "注册";
+
+/* Class = "IBUIButton"; normalTitle = "注册"; ObjectID = "UDk-Gb-4x6"; */
+"UDk-Gb-4x6.normalTitle" = "注册";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "Xq9-ur-I6O"; */
+"Xq9-ur-I6O.text" = "Title";
+
+/* Class = "IBUILabel"; text = "自定义"; ObjectID = "XyM-d9-dE7"; */
+"XyM-d9-dE7.text" = "自定义";
+
+/* Class = "IBUIButton"; normalTitle = "登录"; ObjectID = "Y5S-jQ-dbM"; */
+"Y5S-jQ-dbM.normalTitle" = "登录";
+
+/* Class = "IBUIButton"; normalTitle = "自定义"; ObjectID = "ZK3-sg-43Y"; */
+"ZK3-sg-43Y.normalTitle" = "自定义";
+
+/* Class = "IBUILabel"; text = "密码:"; ObjectID = "bMC-hj-nmI"; */
+"bMC-hj-nmI.text" = "密码:";
+
+/* Class = "IBUILabel"; text = "用户名:"; ObjectID = "caK-vI-eSA"; */
+"caK-vI-eSA.text" = "用户名:";
+
+/* Class = "IBUIButton"; normalTitle = "返回"; ObjectID = "dBm-Cg-w3S"; */
+"dBm-Cg-w3S.normalTitle" = "返回";
+
+/* Class = "IBUIButton"; normalTitle = "喜欢"; ObjectID = "gIW-jF-8o3"; */
+"gIW-jF-8o3.normalTitle" = "喜欢";
+
+/* Class = "IBUILabel"; text = "确认密码:"; ObjectID = "ioi-jC-avf"; */
+"ioi-jC-avf.text" = "确认密码:";
+
+/* Class = "IBUIButton"; normalTitle = "推荐"; ObjectID = "jyO-G2-QYr"; */
+"jyO-G2-QYr.normalTitle" = "推荐";
+
+/* Class = "IBUIButton"; normalTitle = "开始"; ObjectID = "neo-XJ-LwD"; */
+"neo-XJ-LwD.normalTitle" = "开始";
+
+/* Class = "IBUILabel"; text = "天气查询"; ObjectID = "nxA-WA-scF"; */
+"nxA-WA-scF.text" = "天气查询";
+
+/* Class = "IBUITextField"; placeholder = "密码"; ObjectID = "qbB-Dm-B68"; */
+"qbB-Dm-B68.placeholder" = "密码";
+
+/* Class = "IBUITextField"; placeholder = "用户名"; ObjectID = "rgv-5H-oaL"; */
+"rgv-5H-oaL.placeholder" = "用户名";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "rnY-gY-VGs"; */
+"rnY-gY-VGs.text" = "Detail";
+
+/* Class = "IBUINavigationItem"; title = "自定义"; ObjectID = "tww-hJ-kwA"; */
+"tww-hJ-kwA.title" = "自定义";
+
+/* Class = "IBUILabel"; text = "昵称:"; ObjectID = "z98-uH-0YP"; */
+"z98-uH-0YP.text" = "昵称:";
